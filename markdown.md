@@ -33,22 +33,33 @@
 ## Créer un titre
 
 ```
-#Titre de niveau 1
-##Titre de niveau 2
-###Titre de niveau 3
+ # Titre de niveau 1
+ ## Titre de niveau 2
+ ### Titre de niveau 3
 ```
 ***
 
 ## Créer un titre v2
 
  ```
- Titre de niveau 1
  
-=================
+ Titre de niveau 1
+ =================
 
 Titre de niveau 2
-
------------------
+ -----------------
 
  ```
  ***
+ 
+ ## Créer une liste avec puce
+ 
+ ```
+* qjgfkjqh
+* qsfqsj
+* fsqfq
+* qsfds
+```
+ 
+ 
+ 
