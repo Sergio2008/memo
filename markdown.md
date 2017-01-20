@@ -81,7 +81,7 @@ Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendr
 Mettre le nom du liens entre crochet et l'adresse entre parenthèse
 ```
 
- ## Créer des images
+## Créer des images
  
  ![Zozor](http://www.komrod.com/cache/blog/2011/02/tumblr_lh2wfk0Sb81qhn5p2o1_500.jpg)
 
