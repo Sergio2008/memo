@@ -76,15 +76,22 @@ example
 >> reponse sitation
 
 ## Créer des liens
-
+```
 Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zé
-
+Mettre le nom du liens entre crochet et l'adresse entre parenthèse
+```
 
  ## Créer des images
  
  ![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
 
+```
+Mettre un point d'exclamation
 
+entre crochet l'alt de l'image
+
+et l'adresse entre parenthèse
+```
 
 
  
