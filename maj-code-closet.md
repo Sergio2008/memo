@@ -21,3 +21,5 @@
 4. Migrer la bdd
 5. Modifier le repertoire du virtual host sur ce reppertoire (ou 
 6. Reload
+
+************
