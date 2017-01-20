@@ -18,19 +18,15 @@
 * Requete DELETE  :	Supprimer une info
 ```
 
------------------
+************
 
 ## code de retour /code d'etat
 
 ```
 * 200 : OK
------------------
 * 301 et 302 : Redirection (301 sert à recuperer le referencement en cas de changement d'adresse d'une page)
------------------
 * 304 : La page vient du cash
------------------
 * 500 : Probleme tech 
------------------
 * 404 : La pae n'existe pas
 ```
 
