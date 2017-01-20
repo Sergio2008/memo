@@ -5,7 +5,7 @@
  *
  *
 ```
-
+***
 Écrire une liste numeroté
 
 ```
@@ -14,9 +14,18 @@
  3.
  4.
 ```
-
+***
 Écrire en italique
 
  
-'*'Texte'*'
+'*' Texte '*' *Aria*
+
+***
+Écrire en gras
+
+ 
+'_' Texte '_' _Bety_
+
+***
+
 
