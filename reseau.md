@@ -1,12 +1,10 @@
-# Reseau systeme Requete http
+# Reseau systeme Requete http 
 
-## 
+> f12 => reseau
 
- f12 => reseau
+>> requete sont composer :
 
-requete sont composer :
-
-Methode
+## Methode
 
 ```
 * Requete GET	    :	recuperation d'information
@@ -29,5 +27,4 @@ code de retour /code d'etat
 * 500 : Probleme tech 
 * 404 : La pae n'existe pas
 ```
-> lllllllllllllllllll
->> llllllllllllllllllllllllllllllllll
+
