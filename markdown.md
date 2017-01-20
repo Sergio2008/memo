@@ -62,7 +62,8 @@ pour écrire du code entourer le de l'apostrophe alt 7 pour une ligne
 ```
 ou l'entourer le de 3 l'apostrophe alt 7 pour un bloc
 ```
- 
+***
+
 ## Créer un sitation
 
 
@@ -71,8 +72,9 @@ ou l'entourer le de 3 l'apostrophe alt 7 pour un bloc
 
 example
  
- '>'sitation 
- '>>' reponse sitation
+'>'sitation 
+
+'>>' reponse sitation
 
 
 
