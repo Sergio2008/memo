@@ -1,4 +1,6 @@
-# Reseau systeme Requete http 
+# Reseau systeme 
+
+## Requete http 
 
 > f12 => reseau
 
@@ -6,7 +8,7 @@
 
 ************
 
-## Methode
+### Méthode
 
 ```
 * Requete GET	    :	recuperation d'information
@@ -22,7 +24,7 @@
 
 ************
 
-## code de retour /code d'etat
+### Code de retour / Code d'etat
 
 ```
 * 200 : OK
@@ -31,4 +33,6 @@
 * 500 : Probleme tech 
 * 404 : La pae n'existe pas
 ```
+
+************
 
