@@ -13,13 +13,13 @@
 
 ************
 
-##Nouvele
+##Nouvelle
 
-1. Creer un nouveau repertoire
+1. Creer un nouveau *repertoire*
 2. Git clone
 3. Composer install
 4. Migrer la bdd
-5. Modifier le repertoire du virtual host sur ce reppertoire (ou 
+5. Modifier le repertoire du virtual host sur ce *reppertoire* (ou 
 6. Reload
 
 ************
