@@ -33,3 +33,5 @@
 
 >`systemctl restart apache2`
 >>ou `systemctl reload apache2`
+
+### Attention au droit d'écriture des fichier
