@@ -85,7 +85,7 @@ example
 Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zé
 ```
 Mettre le nom du liens entre crochet et l'adresse entre parenthèse
-![]()
+[Site du Zéro](http://www.siteduzero.com)
 ```
 
 
@@ -102,6 +102,7 @@ Mettre un point d'exclamation
 entre crochet l'alt de l'image
 
 et l'adresse entre parenthèse
+ ![Zozor](http://www.komrod.com/cache/blog/2011/02/tumblr_lh2wfk0Sb81qhn5p2o1_500.jpg)
 ```
 
 
