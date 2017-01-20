@@ -19,7 +19,7 @@
 
 ` * `Texte `*`
 
-*Aria*
+=>*Aria*
 
 ***
 Écrire en gras
@@ -27,7 +27,7 @@
  
 `_` Texte `_`
 
-_Bety_
+=>_Bety_
 
 ***
 
