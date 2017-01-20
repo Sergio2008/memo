@@ -1,4 +1,4 @@
-Écrire une liste
+## Écrire une liste
 ```
  *
  *
@@ -6,7 +6,7 @@
  *
 ```
 ***
-Écrire une liste numeroté
+## Écrire une liste numeroté
 
 ```
  1.
@@ -15,14 +15,14 @@
  4.
 ```
 ***
-Écrire en italique
+## Écrire en italique
 
 ` * `Texte `*`
 
 =>*Aria*
 
 ***
-Écrire en gras
+## Écrire en gras
 
  
 `_` Texte `_`
@@ -30,5 +30,25 @@
 =>_Bety_
 
 ***
+## Créer un titre
 
+```
+#Titre de niveau 1
+##Titre de niveau 2
+###Titre de niveau 3
+```
+***
 
+## Créer un titre v2
+
+ ```
+ Titre de niveau 1
+ 
+=================
+
+Titre de niveau 2
+
+-----------------
+
+ ```
+ ***
