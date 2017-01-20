@@ -3,18 +3,16 @@
 ***
 ##Requete http
 ***
-```
 
-    f12 => reseau
- ```
+f12 => reseau
 
-        requete sont composer :
+requete sont composer :
 
 ***
-
 ### Méthode
-```
+***
 
+```
 * Requete GET       : recuperation d'information
 * Requete HEAD    : recuperation d'information (moins utuliser recupere pas tout)
 * Requete POST    : creer une information
@@ -27,10 +25,10 @@
 ```
 
 ***
-
 ### Code de retour / Code d'etat
-```
+***
 
+```
 * 200 : OK
 * 301 et 302 : Redirection (301 sert à recuperer le referencement en cas de changement d'adresse d'une page)
 * 304 : La page vient du cash
