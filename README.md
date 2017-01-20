@@ -13,7 +13,7 @@
 ***
 ## 6. Réseau
 
-### [Réseu configurer le virtual host](https://github.com/Sergio2008/memo/blob/master/cofig-de-virtual-host.md)
+### [Réseau configurer le virtual host](https://github.com/Sergio2008/memo/blob/master/cofig-de-virtual-host.md)
 
 ### [Réseau système requète http](https://github.com/Sergio2008/memo/blob/master/reseau-systeme-requete-http.md)
 
