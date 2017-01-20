@@ -68,12 +68,12 @@ ou l'entourer le de 3 l'apostrophe alt 7 pour un bloc
 
 > sitation 
 >> reponse sitation
-``` 
+
 example
  
- > sitation 
- >> reponse sitation
-```
+ '>'sitation 
+ '>>' reponse sitation
+
 
 
  
