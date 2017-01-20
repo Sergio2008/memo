@@ -1,4 +1,5 @@
 ## Écrire une liste
+***
 ```
  *
  *
@@ -75,11 +76,16 @@ example
 > sitation 
 >> reponse sitation
 
+***
+
 ## Créer des liens
 ```
 Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zé
 Mettre le nom du liens entre crochet et l'adresse entre parenthèse
 ```
+
+
+***
 
 ## Créer des images
  
