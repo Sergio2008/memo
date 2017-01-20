@@ -1,6 +1,8 @@
 
 # MAJ du site
 
+************
+
 1. Git pull
 2. composer instal
 3. php artisan code clear
