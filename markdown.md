@@ -75,8 +75,14 @@ example
 > sitation 
 >> reponse sitation
 
+## Créer des liens
 
+Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zé
+
+
+ ## Créer des images
  
+ ![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
 
 
 
