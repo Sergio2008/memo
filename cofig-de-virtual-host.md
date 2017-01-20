@@ -10,4 +10,4 @@
 
 * Faire les mise à jour `apt get upgrade`
 
-## Créer un fichier .conf dans /etc/apache2/sites-available/
+## Créer un fichier `.conf dans /etc/apache2/sites-available/`
