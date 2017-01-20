@@ -52,14 +52,16 @@ Titre de niveau 2
  ```
  ***
  
- ## Créer une liste avec puce
- 
- ```
-* qjgfkjqh
-* qsfqsj
-* fsqfq
-* qsfds
+ ## Créer du code
 ```
+pour écrire du code entourer le de l'apostrophe alt 7 pour une ligne
+```
+
+```
+ou l'entourer le de 3 l'apostrophe alt 7 pour un bloc
+```
+ 
+
  
  
  
