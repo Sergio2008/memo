@@ -11,11 +11,11 @@
 ### Méthode
 
 ```
-* Requete GET	    :	recuperation d'information
+* Requete GET	    : recuperation d'information
 * Requete HEAD    :	recuperation d'information (moins utuliser recupere pas tout)
-* Requete POST    : 	creer une information
-* Requete PUT     : 	Sert a modifier une donnée (mais les donnée diovent etre complete)
-* Requete PATCH   : 	Sert a modifier une donnée(peut ne pas etre)
+* Requete POST    : creer une information
+* Requete PUT     : Sert a modifier une donnée (mais les donnée diovent etre complete)
+* Requete PATCH   : Sert a modifier une donnée(peut ne pas etre)
 * Requete OPTION  : 
 * Requete TRACE   :	Test 
 * Requete CONNECT :	Utuliser un proxy
