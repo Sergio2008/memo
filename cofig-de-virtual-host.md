@@ -12,7 +12,7 @@
 
 ## Créer un fichier `.conf` dans `/etc/apache2/sites-available/`
 
-Et le completter
+### Et le completer
 
 ```
 <VirtualHost *:80>
@@ -25,4 +25,11 @@ Et le completter
 </VirtualHost>
 ```
 
+### Activer la configuration
 
+`a2ensite example.com.conf`
+
+### Redemarrer le serveur
+
+>`systemctl restart apache2`
+>>ou `systemctl reload apache2`
