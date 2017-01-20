@@ -51,8 +51,10 @@ Titre de niveau 2
 
  ```
  ***
- 
- ## Créer du code
+
+
+## Créer du code
+
 ```
 pour écrire du code entourer le de l'apostrophe alt 7 pour une ligne
 ```
@@ -61,7 +63,18 @@ pour écrire du code entourer le de l'apostrophe alt 7 pour une ligne
 ou l'entourer le de 3 l'apostrophe alt 7 pour un bloc
 ```
  
+## Créer un sitation
 
+```
+ > sitation 
+ >> reponse sitation
  
+example
+ 
+> sitation 
+>> reponse sitation
+```
+
+
  
  
