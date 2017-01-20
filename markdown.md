@@ -17,4 +17,6 @@
 
 Écrire en italique
 
-```*```Texte```*```
+``` 
+* Texte *
+```
