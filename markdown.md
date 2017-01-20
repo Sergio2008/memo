@@ -18,13 +18,15 @@
 Écrire en italique
 
 ` * `Texte `*`
+
 *Aria*
 
 ***
 Écrire en gras
 
  
-`_` Texte `_` 
+`_` Texte `_`
+
 _Bety_
 
 ***
