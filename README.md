@@ -7,11 +7,11 @@
 ***
 ## 3. JavaScript
 ***
-## 4 Base de donnée
+## 4. Base de donnée
 ***
-## 5 Php
+## 5. Php
 ***
-## 6 Réseau
+## 6. Réseau
 
 ### [Réseau système requète http](https://github.com/Sergio2008/memo/blob/master/reseau-systeme-requete-http.md)
 
