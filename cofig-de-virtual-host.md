@@ -4,10 +4,10 @@
 
 ## Prerequis
 
-### Mettre le ap
+# Avoir apache installer `apt-get install apache2`
 
-avoir apache installer `apt-get install apache2`
+# Verifier les mise à jour ` apt-get update `
 
-verifier les mise à jour ` apt-get update `
+# Faire les mise à jour `apt get upgrade`
 
-faire les mise à jour `apt get upgrade`
+## Créer un fichier .conf dans /etc/apache2/sites-available/
