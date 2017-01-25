@@ -16,7 +16,7 @@
 >>Nom d'utulisateur
 >>>Mots de passe
 
-1. Configurer la route en y ajoutant l'accès à un controller et à une de ces methodes(fonction)
+2. Configurer la route en y ajoutant l'accès à un controller et à une de ces methodes(fonction)
 
 ```
 Route::get('messages', 'MailController@allreturn');
@@ -27,7 +27,7 @@ Route::get('messages', 'MailController@allreturn');
 >>`'message'` nom de domaine / message
 >>>>`MailController@allreturn` `MailController` (nom du controller)`@allreturn`(nom de la methode)
 
-1. Configurer le controlleur
+3. Configurer le controlleur
 
 Créer le controlleur 
 
