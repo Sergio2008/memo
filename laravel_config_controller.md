@@ -54,11 +54,10 @@ public function indexspe($id)
 
 >>> `select content , object , sender from message` ce qui correspond à cette requète
 
->>>> ``` sender from message ', ['id' => $id]);
+>>>> ` sender from message ', ['id' => $id]);`
 
-      return view('pages.message');
+>>>>     ` return view('pages.message');`
 
-       }
- ```
+>>>> ` } `
 
->>>> revoie les infos 
+>>>> revoie les infos vers la view 
