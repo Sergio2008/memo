@@ -75,9 +75,7 @@ Route::get('messages/{id}', 'MailController@onereturn');
 
 Ne pas oublier de cahnger la methode
 ```
-
     where id = ?', [$id]);
-
     
 ```
 
