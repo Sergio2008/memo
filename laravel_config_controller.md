@@ -10,13 +10,13 @@
 
 ### View et controller
 
-1. Configurer le .env pour cibler la  base de donnée
+#### 1. Configurer le .env pour cibler la  base de donnée
 
 >Nom de la base
 >>Nom d'utulisateur
 >>>Mots de passe
 
-2. Configurer la route en y ajoutant l'accès à un controller et à une de ces methodes(fonction)
+#### 2. Configurer la route en y ajoutant l'accès à un controller et à une de ces methodes(fonction)
 
 ```
 Route::get('messages', 'MailController@allreturn');
@@ -27,7 +27,7 @@ Route::get('messages', 'MailController@allreturn');
 >>`'message'` nom de domaine / message
 >>>>`MailController@allreturn` `MailController` (nom du controller)`@allreturn`(nom de la methode)
 
-3. Configurer le controlleur
+#### 3. Configurer le controlleur
 
 Créer le controlleur 
 
@@ -61,6 +61,30 @@ public function indexspe()
 >>>> ` } `
 
 >>>> revoie les infos vers la view 
+
+#### 4. proteger le nom de la table
+
+ajouter au controller
+
+`use App\nom.php`
+
+faire une copie de User.php
+la renommer en nom.php
+
+```
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Message extends Model
+{
+    //
+    protected $table = 'message';
+    public $timestamps = false;
+}
+```
 
 *************************
 
