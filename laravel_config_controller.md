@@ -42,7 +42,7 @@ Créer une fonction
 ```
 public function indexspe($id)
     {
-        $message = DB::select('select content , object , id , sender from message ', ['id' => $id]);
+        $message = DB::select('select content , object , sender from message');
         
 
     return view('pages.message');
@@ -52,10 +52,13 @@ public function indexspe($id)
 
 >> `DB::select(` dans la base
 
->>> `select content , object , id , sender from message '` ce qui correspond à cette requète
+>>> `select content , object , sender from message` ce qui correspond à cette requète
 
->>>> sender from message ', ['id' => $id]);
+>>>> ``` sender from message ', ['id' => $id]);
 
->>>> return view('pages.message');
+      return view('pages.message');
 
->>>> }
+       }
+ ```
+
+>>>> revoie les infos 
