@@ -1,5 +1,5 @@
 # LARAVEL configuration de controller
-
+*************
 ## Model view controller
 
 | Model         | View          | Controller |
@@ -61,3 +61,12 @@ public function indexspe($id)
 >>>> ` } `
 
 >>>> revoie les infos vers la view 
+
+*************************
+
+### Ajout du model
+
+*************************
+
+
+
