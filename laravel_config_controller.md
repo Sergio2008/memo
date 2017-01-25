@@ -64,7 +64,22 @@ public function indexspe()
 
 *************************
 
-### Ajout d'un parametre
+### Ajout d'un parametre (id)
+
+#### Modifier la View
+
+```
+Route::get('messages/{id}', 'MailController@onereturn');
+
+```
+
+Ne pas oublier de cahnger la methode
+```
+
+    where id = ?', [$id]);
+
+    
+```
 
 *************************
 
