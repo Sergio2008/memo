@@ -55,5 +55,7 @@ public function indexspe($id)
 >>> `select content , object , id , sender from message '` ce qui correspond à cette requète
 
 >>>> sender from message ', ['id' => $id]);
+
 >>>> return view('pages.message');
+
 >>>> }
