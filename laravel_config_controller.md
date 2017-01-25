@@ -23,13 +23,8 @@ Route::get('messages', 'MailController@allreturn');
 
 ```
 
->Route::get 
->>(sytaxe basique laravel)
+>``Route::get` (sytaxe basique laravel)
+>>`'message'` nom de domaine / message
+>>>>`MailController@allreturn` MailController (nom du controller)@allreturn(nom de la methode)
 
-
->>>'message' 
->>>>nom de domaine / message
-
->>>>>MailController@allreturn
->>>>>>MailController (nom du controller)@allreturn(nom de la methode)
 
