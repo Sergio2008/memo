@@ -31,7 +31,7 @@ Route::get('messages', 'MailController@allreturn');
 
 Créer le controlleur 
 
-`php artisan make:controller OrderController -- ressource`
+`php artisan make:controller OrderController -- resource`
 
 OrderController est le nom donné au Controller
 
