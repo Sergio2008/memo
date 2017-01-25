@@ -42,10 +42,16 @@ Créer une fonction
 ```
 public function indexspe($id)
     {
-        $message = DB::select('select content , object , id , sender from message  where id = :id', ['id' => $id]);
+        $message = DB::select('select content , object , id , sender from message ', ['id' => $id]);
         
 
-    return view('pages.message1', ['message' => $message[1]]);
+    return view('pages.message');
     }
 ```
->$message = affecter
+> `$message =` affecter à la valeur message
+
+>> `DB::select(` dans la base
+
+>>> `select content , object , id , sender from message '` ce qui correspond à cette requète
+
+>>>>
