@@ -35,6 +35,9 @@
 ## Autre
 ####
 
+### [Migration & seed](https://github.com/Sergio2008/memo/blob/master/Migration%26Seed.md)
+#### url:https://github.com/Sergio2008/memo/blob/master/Migration%26Seed.md
+
 ### [Markdown](https://github.com/Sergio2008/memo/blob/master/markdown.md)
 #### url:https://github.com/Sergio2008/memo/blob/master/markdown.md
 
