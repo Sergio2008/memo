@@ -28,7 +28,31 @@ c'est le fait de pouvoir créer une class qui engloberais par definition/princip
 
 c'est créer une methode dans une classe enfant qui existe deja dans la classe parente 
 
-http://www.apprendre-php.com/tutoriels/tutoriel-49-mthodes-magiques-set-et-get.html
+
+### setter
+
+Permet de fixer des valeu
+```
+<?php
+ 
+class MyObject 
+{
+  /**
+   * Methode magique __set()
+   *
+   * @param string $property Nom de la propriété
+   * @param mixed $value Valeur à affecter à la propriété
+   * @return void
+   */
+  public function __set($property, $value)
+  {
+    // Code personnalisé à exécuter
+  }
+}
+ 
+?>
+```
+
 ### getter
 permet de lire une propriete existante de la class
 ```
@@ -50,27 +74,9 @@ class MyObject
  
 ?>
 ```
-### setter
-```
-<?php
- 
-class MyObject 
-{
-  /**
-   * Methode magique __set()
-   *
-   * @param string $property Nom de la propriété
-   * @param mixed $value Valeur à affecter à la propriété
-   * @return void
-   */
-  public function __set($property, $value)
-  {
-    // Code personnalisé à exécuter
-  }
-}
- 
-?>
-```
+
+
+
 
 
 
