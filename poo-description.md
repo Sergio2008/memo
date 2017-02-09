@@ -22,10 +22,55 @@ les attibut sont le noms se referant aux caracteristique d'une class
 
 ### héritage (innheritance)
 
-c'est le fait de pouvoir créer une class qui engloberais par definition/principe une autre plus petite et qui permettrais de beneficier des meme attribut 
-
-### getter
-### setter
+c'est le fait de pouvoir créer une class qui engloberais par definition/principe une autre plus petite et qui permettrais de beneficier des meme attribut des meme methode
 
 ### surcharger (overriding)
+
+c'est créer une methode dans une classe enfant qui existe deja dans la classe parente 
+
+http://www.apprendre-php.com/tutoriels/tutoriel-49-mthodes-magiques-set-et-get.html
+### getter
+permet de lire une propriete existante de la class
+```
+<?php
+ 
+class MyObject 
+{
+  /**
+   * Methode magique __get()
+   *
+   * @param string $property Nom de la propriété à atteindre
+   * @return mixed|null
+   */
+  public function __get($property)
+  {
+    // Code personnalisé à exécuter
+  }
+}
+ 
+?>
+```
+### setter
+```
+<?php
+ 
+class MyObject 
+{
+  /**
+   * Methode magique __set()
+   *
+   * @param string $property Nom de la propriété
+   * @param mixed $value Valeur à affecter à la propriété
+   * @return void
+   */
+  public function __set($property, $value)
+  {
+    // Code personnalisé à exécuter
+  }
+}
+ 
+?>
+```
+
+
 
