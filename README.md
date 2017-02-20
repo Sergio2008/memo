@@ -34,6 +34,9 @@
 ## Mobile
 ### [Ionic] (https://github.com/Sergio2008/memo/blob/master/ionic.md)
 #### url:https://github.com/Sergio2008/memo/blob/master/ionic.md
+
+### [Angular] (https://github.com/Sergio2008/memo/blob/master/Angular.md)
+#### url:https://github.com/Sergio2008/memo/blob/master/Angular.md
 ***
 ## Autre
 ####
