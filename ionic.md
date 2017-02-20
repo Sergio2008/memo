@@ -21,7 +21,20 @@ sans oublier un grand nombre d'icone les ionicons.
 
 Ionic cli qui s'install avec un simple
 
-````
-`$ npm install -g ionic
+```
+$ npm install -g ionic
+```
+Permet d'avoir un visuel pendant l'etape de devellopement  de votre application
+```
+$ ionic start myAwesomeApp --v2
+```
+Créer un nouveau projet d'application avec le nom donné
+```
+$ ionic info
+```
+Donne des détails sur l'eta de l'appli
+```
+$ ionic serve
+```
+lance une demonstration de l'appli en local
 
-````
