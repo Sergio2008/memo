@@ -31,3 +31,6 @@ app.controller('MainController', ['$scope', function($scope) {
 ```
 
 ###  6. formater /filtrer les données
+```
+{{ title | filtre }}
+```
