@@ -32,11 +32,11 @@ app.controller('MainController', ['$scope', function($scope) {
 
 ####  A. formater /filtrer les données
 
->
+
 ```
 {{ title | filtre }}
 ```
->
+
 ####  B. Travailler sur des listes
 
 > products to store an array 
@@ -47,29 +47,30 @@ app.controller('MainController', ['$scope', function($scope) {
 
 ####  C. afficher une image
 
->
+
 ```
  <img ng-src="{{ product.cover }}"> 
 ```
->
+
 
 ####  D. utuliser une fonction
 
->
+
 ```
   $scope.plusOne= function(index){ 
   $scope.products[index].likes += 1; 
 }; 
 ```
->
 
->
 ```
  <p class="likes" ng-click="plusOne($index)">
 
 ```
->
+
 ***
+
 ###  5. en resumé
+
 ![image](https://github.com/Sergio2008/memo/blob/master/shema-Angular-Codcad.png?raw=true)
+
 ***
