@@ -71,11 +71,16 @@ ionic g provider MyData
 > genere un service
 
 ```
-ionic g provider MyData
-
-√ Create app/providers/my-data/my-data.ts
+ionic platteform
 ```
 
-> genere un service
+> ajoute une nouvelle platteform
 
->
+```
+ionic run
+```
+
+> lance le projet sur un appareil connecter
+
+
+
