@@ -31,11 +31,14 @@ app.controller('MainController', ['$scope', function($scope) {
 ```
 
 ####  A. formater /filtrer les données
+
+>
 ```
 {{ title | filtre }}
 ```
-
+>
 ####  B. Travailler sur des listes
+
 > products to store an array 
 ```
  <div ng-repeat="product in products">
@@ -43,6 +46,26 @@ app.controller('MainController', ['$scope', function($scope) {
 > equivalent a un foreach
 
 ####  C. afficher une image
+
+>
 ```
  <img ng-src="{{ product.cover }}"> 
 ```
+>
+
+####  D. utuliser une fonction
+
+>
+```
+  $scope.plusOne= function(index){ 
+  $scope.products[index].likes += 1; 
+}; 
+```
+>
+
+>
+```
+ <p class="likes" ng-click="plusOne($index)">
+
+```
+>
