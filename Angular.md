@@ -25,7 +25,9 @@ app.controller('MainController', ['$scope', function($scope) {
 <div class="main" ng-controller="MainController">
 ```
 
-###  5. we accessed $scope.title using {{ title }} /acceder aux donnée
+###  5. we accessed $scope.title using {{ title }} /acceder aux données
 ```
 {{ title }}
 ```
+
+###  6. formater /filtrer les données
