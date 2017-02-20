@@ -41,3 +41,41 @@ $ ionic serve
 ```
 > lance une demonstration de l'appli en local
 
+```
+$ ionic build
+```
+> renvoie vers le build de cordova et adapte les appli au platteforme ionic emulate
+
+```
+$ ionic emulate
+```
+> ionic simule un projet dans un emullateur
+
+```
+$ # ionic g page <PageName>
+ionic g page myPage
+
+√ Create app/pages/my-page/my-page.html
+√ Create app/pages/my-page/my-page.ts
+√ Create app/pages/my-page/my-page.scss
+```
+
+> genere des pages 
+
+```
+ionic g provider MyData
+
+√ Create app/providers/my-data/my-data.ts
+```
+
+> genere un service
+
+```
+ionic g provider MyData
+
+√ Create app/providers/my-data/my-data.ts
+```
+
+> genere un service
+
+>
