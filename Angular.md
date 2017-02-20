@@ -69,4 +69,4 @@ app.controller('MainController', ['$scope', function($scope) {
 
 ```
 >
-![image](https://raw.githubusercontent.com/Sergio2008/memo/master/shema-Angular-Codcad.png)
+![image](https://github.com/Sergio2008/memo/blob/master/shema-Angular-Codcad.png?raw=true)
