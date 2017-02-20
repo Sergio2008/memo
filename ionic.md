@@ -29,13 +29,15 @@ $ npm install -g ionic
 ```
 $ ionic start myAwesomeApp --v2
 ```
-Créer un nouveau projet d'application avec le nom donné
+> Créer un nouveau projet d'application avec le nom donné
+
 ```
 $ ionic info
 ```
-Donne des détails sur l'eta de l'appli
+> Donne des détails sur l'eta de l'appli
+
 ```
 $ ionic serve
 ```
-lance une demonstration de l'appli en local
+> lance une demonstration de l'appli en local
 
