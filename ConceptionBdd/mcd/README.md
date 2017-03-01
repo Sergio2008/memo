@@ -49,3 +49,10 @@ P1,P2 → P3
 P1 → P2,P3
 P1, P2 → P3,P4,P5
 
+Chaque entité est unique et est décrite par un ensemble de propriétés encore appelées attributs ou caractéristiques. Une des propriétés de l'entité est l'identifiant. Cette propriété doit posséder des occurrences uniques et doit être source des dépendances fonctionnelles avec toutes les autres propriétés de l'entité. Bien souvent, on utilise une donnée de type entier qui s'incrémente pour chaque occurrence, ou encore un code unique spécifique du contexte.
+
+Le formalisme d'une entité est le suivant :
+
+
+
+![](http://ineumann.developpez.com/tutoriels/merise/initiation-merise/images/entite.png)
