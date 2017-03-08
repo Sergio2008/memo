@@ -23,3 +23,11 @@ text  entre double quote
 ``` 
 "true "
 ```
+
+creer une variable
+
+```
+int myNumber = 42;
+		boolean isFun =true; 
+		char movieRating = 'A'; 
+```
