@@ -84,7 +84,44 @@ class Dog {
 	}
 }
 ```
+#### HashMap
+```
 
+public static void main(String[] args) {
+
+```
+/* Crée une liste HashMap avec une clée string et une valeur en integer*/ 
+```
+		HashMap<String, Integer> restaurantMenu = new HashMap<String, Integer>();
+```
+/* Ajoute des elements à la liste */ 
+```
+
+		restaurantMenu.put("Turkey Burger", 13);
+		restaurantMenu.put("Naan Pizza", 11);
+		restaurantMenu.put("Cranberry Kale Salad", 10);
+		
+```
+/* sort la taille de la liste */
+```
+
+		System.out.println(restaurantMenu.size());
+		
+```
+/*  for each sur le HashMapp */
+```
+
+		for (String item : restaurantMenu.keySet()) {
+		
+
+
+			System.out.println("A " + item + " costs " + restaurantMenu.get(item) + " dollars.");
+
+		}
+
+	}
+```
+*** lol ***
 ****************
 
 creer une liste (d'entier dans l'exemple)
@@ -120,3 +157,4 @@ for (Integer temperature : weeklyTemperatures) {
 	System.out.println(temperature);
 }
 ```
+
