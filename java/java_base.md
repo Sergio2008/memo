@@ -82,3 +82,11 @@ class Dog {
 	}
 }
 ```
+
+****************
+
+creer une liste (d'entier dans l'exemple)
+
+```
+ArrayList<Integer> weeklyTemperatures = new ArrayList<Integer>();
+```
