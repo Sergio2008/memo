@@ -98,6 +98,11 @@ ajouter des valeur à une liste
 weeklyTemperatures.add(89);
 weeklyTemperatures.add(94);
 ```
+ajouter à un endroit précis(à l'index 2)
+```
+weeklyTemperatures.add(2,89);
+
+```
 
 afficher une variable de la liste
 
