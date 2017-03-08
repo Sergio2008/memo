@@ -41,26 +41,34 @@ class Car {
     }
 }
 ```
-
+* Plus en detail
 ```
 class Dog {
-  /*declare une variable*/
+```
+/*declare une variable*/
+```
   int age;
-  /* declare un constructeur */
+``` 
+/* declare un constructeur */
+```
+ 
   public Dog(int dogsAge) {
+```
    /* affecte un param ^ a cette variable */
+ ```
     age = dogsAge;
       
     }
 
-
-	
+```
 	/* fonction lancer par default */
+```
 	public static void main(String[] args) {
+```
     /* instantie un chien avec le param */
+```
     Dog spike = new Dog(7);
 
 	}
-
 }
 ```
