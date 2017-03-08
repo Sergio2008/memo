@@ -113,3 +113,10 @@ taille de la liste
 ```
 weeklyTemperatures.size()
 ```
+****
+raccourci (for each)
+```
+for (Integer temperature : weeklyTemperatures) {
+	System.out.println(temperature);
+}
+```
