@@ -1,31 +1,33 @@
+# Syntaxejava
+
 ****
 Print java
 System.out.println();
 ****
-int ecris simplement
+#### int ecris simplement
 
 ``` 
 7 
 ```
 
-bolean ecris simplement
+#### bolean ecris simplement
 
 ``` 
 true 
 ```
 
-char  entre simple quote
+#### char  entre simple quote
 
 ``` 
 'true '
 ```
-text  entre double quote
+#### text  entre double quote
 
 ``` 
 "true "
 ```
 ****
-creer une variable
+#### creer une variable
 
 ```
 int myNumber = 42;
@@ -33,7 +35,7 @@ int myNumber = 42;
 		char movieRating = 'A'; 
 ```
 ****
-creer une class et son contructeur 
+#### creer une class et son contructeur 
 ```
 class Car {
 
@@ -84,6 +86,37 @@ class Dog {
 	}
 }
 ```
+
+
+****************
+
+#### creer une liste (d'entier dans l'exemple)
+
+```
+ArrayList<Integer> weeklyTemperatures = new ArrayList<Integer>();
+```
+
+ajouter des valeur à une liste
+```
+weeklyTemperatures.add(89);
+weeklyTemperatures.add(94);
+```
+ajouter à un endroit précis(à l'index 2)
+```
+weeklyTemperatures.add(2,89);
+
+```
+
+afficher une variable de la liste
+
+```
+System.out.println( weeklyTemperatures.get(1) );
+```
+taille de la liste
+```
+weeklyTemperatures.size()
+```
+
 #### HashMap
 ```
 
@@ -120,35 +153,6 @@ public static void main(String[] args) {
 		}
 
 	}
-```
-*** lol ***
-****************
-
-creer une liste (d'entier dans l'exemple)
-
-```
-ArrayList<Integer> weeklyTemperatures = new ArrayList<Integer>();
-```
-
-ajouter des valeur à une liste
-```
-weeklyTemperatures.add(89);
-weeklyTemperatures.add(94);
-```
-ajouter à un endroit précis(à l'index 2)
-```
-weeklyTemperatures.add(2,89);
-
-```
-
-afficher une variable de la liste
-
-```
-System.out.println( weeklyTemperatures.get(1) );
-```
-taille de la liste
-```
-weeklyTemperatures.size()
 ```
 ****
 raccourci (for each)
