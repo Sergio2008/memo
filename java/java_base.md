@@ -94,3 +94,7 @@ ArrayList<Integer> weeklyTemperatures = new ArrayList<Integer>();
 ```
 
 ajouter des valeur à une liste
+```
+weeklyTemperatures.add(89);
+weeklyTemperatures.add(94);
+```
