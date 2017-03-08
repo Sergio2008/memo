@@ -109,3 +109,7 @@ afficher une variable de la liste
 ```
 System.out.println( weeklyTemperatures.get(1) );
 ```
+taille de la liste
+```
+weeklyTemperatures.size()
+```
