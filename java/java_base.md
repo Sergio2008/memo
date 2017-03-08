@@ -1,6 +1,7 @@
+****
 Print java
 System.out.println();
-
+****
 int ecris simplement
 
 ``` 
@@ -23,7 +24,7 @@ text  entre double quote
 ``` 
 "true "
 ```
-
+****
 creer une variable
 
 ```
@@ -31,6 +32,7 @@ int myNumber = 42;
 		boolean isFun =true; 
 		char movieRating = 'A'; 
 ```
+****
 creer une class et son contructeur 
 ```
 class Car {
