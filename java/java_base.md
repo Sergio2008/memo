@@ -31,3 +31,13 @@ int myNumber = 42;
 		boolean isFun =true; 
 		char movieRating = 'A'; 
 ```
+creer une class et son contructeur 
+```
+class Car {
+
+    //The class constructor for the Car class
+    public Car() {
+
+    }
+}
+```
