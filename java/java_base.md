@@ -7,8 +7,19 @@ int ecris simplement
 7 
 ```
 
-bolean 
+bolean ecris simplement
 
 ``` 
 true 
+```
+
+char  entre simple quote
+
+``` 
+'true '
+```
+text  entre double quote
+
+``` 
+"true "
 ```
