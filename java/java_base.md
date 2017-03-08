@@ -92,3 +92,5 @@ creer une liste (d'entier dans l'exemple)
 ```
 ArrayList<Integer> weeklyTemperatures = new ArrayList<Integer>();
 ```
+
+ajouter des valeur à une liste
