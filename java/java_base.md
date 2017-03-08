@@ -98,3 +98,9 @@ ajouter des valeur à une liste
 weeklyTemperatures.add(89);
 weeklyTemperatures.add(94);
 ```
+
+afficher une variable de la liste
+
+```
+System.out.println( weeklyTemperatures.get(1) );
+```
